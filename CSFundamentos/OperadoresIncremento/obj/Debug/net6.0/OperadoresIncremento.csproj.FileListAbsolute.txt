@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresIncremento\bin\Debug\net6.0\OperadoresIncremento.exe
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresIncremento\bin\Debug\net6.0\OperadoresIncremento.deps.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresIncremento\bin\Debug\net6.0\OperadoresIncremento.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresIncremento\bin\Debug\net6.0\OperadoresIncremento.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresIncremento\bin\Debug\net6.0\OperadoresIncremento.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresIncremento\obj\Debug\net6.0\OperadoresIncremento.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresIncremento\obj\Debug\net6.0\OperadoresIncremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresIncremento\obj\Debug\net6.0\OperadoresIncremento.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresIncremento\obj\Debug\net6.0\OperadoresIncremento.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresIncremento\obj\Debug\net6.0\OperadoresIncremento.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresIncremento\obj\Debug\net6.0\OperadoresIncremento.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresIncremento\obj\Debug\net6.0\refint\OperadoresIncremento.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresIncremento\obj\Debug\net6.0\OperadoresIncremento.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresIncremento\obj\Debug\net6.0\OperadoresIncremento.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresIncremento\obj\Debug\net6.0\ref\OperadoresIncremento.dll

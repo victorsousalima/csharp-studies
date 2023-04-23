@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoIfElseIf\bin\Debug\net6.0\InstrucaoIfElseIf.exe
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoIfElseIf\bin\Debug\net6.0\InstrucaoIfElseIf.deps.json
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoIfElseIf\bin\Debug\net6.0\InstrucaoIfElseIf.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoIfElseIf\bin\Debug\net6.0\InstrucaoIfElseIf.dll
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoIfElseIf\bin\Debug\net6.0\InstrucaoIfElseIf.pdb
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoIfElseIf\obj\Debug\net6.0\InstrucaoIfElseIf.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoIfElseIf\obj\Debug\net6.0\InstrucaoIfElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoIfElseIf\obj\Debug\net6.0\InstrucaoIfElseIf.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoIfElseIf\obj\Debug\net6.0\InstrucaoIfElseIf.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoIfElseIf\obj\Debug\net6.0\InstrucaoIfElseIf.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoIfElseIf\obj\Debug\net6.0\InstrucaoIfElseIf.dll
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoIfElseIf\obj\Debug\net6.0\refint\InstrucaoIfElseIf.dll
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoIfElseIf\obj\Debug\net6.0\InstrucaoIfElseIf.pdb
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoIfElseIf\obj\Debug\net6.0\InstrucaoIfElseIf.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoIfElseIf\obj\Debug\net6.0\ref\InstrucaoIfElseIf.dll

@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\PrecedenciaOperadores\bin\Debug\net6.0\PrecedenciaOperadores.exe
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\PrecedenciaOperadores\bin\Debug\net6.0\PrecedenciaOperadores.deps.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\PrecedenciaOperadores\bin\Debug\net6.0\PrecedenciaOperadores.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\PrecedenciaOperadores\bin\Debug\net6.0\PrecedenciaOperadores.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\PrecedenciaOperadores\bin\Debug\net6.0\PrecedenciaOperadores.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\PrecedenciaOperadores\obj\Debug\net6.0\PrecedenciaOperadores.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\PrecedenciaOperadores\obj\Debug\net6.0\PrecedenciaOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\PrecedenciaOperadores\obj\Debug\net6.0\PrecedenciaOperadores.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\PrecedenciaOperadores\obj\Debug\net6.0\PrecedenciaOperadores.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\PrecedenciaOperadores\obj\Debug\net6.0\PrecedenciaOperadores.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\PrecedenciaOperadores\obj\Debug\net6.0\PrecedenciaOperadores.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\PrecedenciaOperadores\obj\Debug\net6.0\refint\PrecedenciaOperadores.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\PrecedenciaOperadores\obj\Debug\net6.0\PrecedenciaOperadores.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\PrecedenciaOperadores\obj\Debug\net6.0\PrecedenciaOperadores.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\PrecedenciaOperadores\obj\Debug\net6.0\ref\PrecedenciaOperadores.dll

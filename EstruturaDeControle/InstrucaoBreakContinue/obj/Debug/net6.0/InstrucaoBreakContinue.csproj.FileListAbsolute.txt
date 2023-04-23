@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoBreakContinue\bin\Debug\net6.0\InstrucaoBreakContinue.exe
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoBreakContinue\bin\Debug\net6.0\InstrucaoBreakContinue.deps.json
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoBreakContinue\bin\Debug\net6.0\InstrucaoBreakContinue.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoBreakContinue\bin\Debug\net6.0\InstrucaoBreakContinue.dll
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoBreakContinue\bin\Debug\net6.0\InstrucaoBreakContinue.pdb
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoBreakContinue\obj\Debug\net6.0\InstrucaoBreakContinue.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoBreakContinue\obj\Debug\net6.0\InstrucaoBreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoBreakContinue\obj\Debug\net6.0\InstrucaoBreakContinue.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoBreakContinue\obj\Debug\net6.0\InstrucaoBreakContinue.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoBreakContinue\obj\Debug\net6.0\InstrucaoBreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoBreakContinue\obj\Debug\net6.0\InstrucaoBreakContinue.dll
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoBreakContinue\obj\Debug\net6.0\refint\InstrucaoBreakContinue.dll
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoBreakContinue\obj\Debug\net6.0\InstrucaoBreakContinue.pdb
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoBreakContinue\obj\Debug\net6.0\InstrucaoBreakContinue.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoBreakContinue\obj\Debug\net6.0\ref\InstrucaoBreakContinue.dll

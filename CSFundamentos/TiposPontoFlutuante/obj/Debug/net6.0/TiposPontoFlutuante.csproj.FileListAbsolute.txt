@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposPontoFlutuante\bin\Debug\net6.0\TiposPontoFlutuante.exe
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposPontoFlutuante\bin\Debug\net6.0\TiposPontoFlutuante.deps.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposPontoFlutuante\bin\Debug\net6.0\TiposPontoFlutuante.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposPontoFlutuante\bin\Debug\net6.0\TiposPontoFlutuante.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposPontoFlutuante\bin\Debug\net6.0\TiposPontoFlutuante.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposPontoFlutuante\obj\Debug\net6.0\TiposPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposPontoFlutuante\obj\Debug\net6.0\TiposPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposPontoFlutuante\obj\Debug\net6.0\TiposPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposPontoFlutuante\obj\Debug\net6.0\TiposPontoFlutuante.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposPontoFlutuante\obj\Debug\net6.0\TiposPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposPontoFlutuante\obj\Debug\net6.0\TiposPontoFlutuante.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposPontoFlutuante\obj\Debug\net6.0\refint\TiposPontoFlutuante.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposPontoFlutuante\obj\Debug\net6.0\TiposPontoFlutuante.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposPontoFlutuante\obj\Debug\net6.0\TiposPontoFlutuante.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposPontoFlutuante\obj\Debug\net6.0\ref\TiposPontoFlutuante.dll

@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadorTernário\bin\Debug\net6.0\OperadorTernário.exe
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadorTernário\bin\Debug\net6.0\OperadorTernário.deps.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadorTernário\bin\Debug\net6.0\OperadorTernário.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadorTernário\bin\Debug\net6.0\OperadorTernário.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadorTernário\bin\Debug\net6.0\OperadorTernário.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadorTernário\obj\Debug\net6.0\OperadorTernário.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadorTernário\obj\Debug\net6.0\OperadorTernário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadorTernário\obj\Debug\net6.0\OperadorTernário.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadorTernário\obj\Debug\net6.0\OperadorTernário.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadorTernário\obj\Debug\net6.0\OperadorTernário.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadorTernário\obj\Debug\net6.0\OperadorTernário.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadorTernário\obj\Debug\net6.0\refint\OperadorTernário.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadorTernário\obj\Debug\net6.0\OperadorTernário.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadorTernário\obj\Debug\net6.0\OperadorTernário.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadorTernário\obj\Debug\net6.0\ref\OperadorTernário.dll

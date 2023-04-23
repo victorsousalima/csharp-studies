@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposNaoNumericos\bin\Debug\net6.0\TiposNaoNumericos.exe
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposNaoNumericos\bin\Debug\net6.0\TiposNaoNumericos.deps.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposNaoNumericos\bin\Debug\net6.0\TiposNaoNumericos.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposNaoNumericos\bin\Debug\net6.0\TiposNaoNumericos.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposNaoNumericos\bin\Debug\net6.0\TiposNaoNumericos.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposNaoNumericos\obj\Debug\net6.0\TiposNaoNumericos.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposNaoNumericos\obj\Debug\net6.0\TiposNaoNumericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposNaoNumericos\obj\Debug\net6.0\TiposNaoNumericos.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposNaoNumericos\obj\Debug\net6.0\TiposNaoNumericos.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposNaoNumericos\obj\Debug\net6.0\TiposNaoNumericos.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposNaoNumericos\obj\Debug\net6.0\TiposNaoNumericos.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposNaoNumericos\obj\Debug\net6.0\refint\TiposNaoNumericos.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposNaoNumericos\obj\Debug\net6.0\TiposNaoNumericos.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposNaoNumericos\obj\Debug\net6.0\TiposNaoNumericos.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposNaoNumericos\obj\Debug\net6.0\ref\TiposNaoNumericos.dll

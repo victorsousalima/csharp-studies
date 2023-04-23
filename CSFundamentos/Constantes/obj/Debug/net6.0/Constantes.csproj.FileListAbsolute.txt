@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\Constantes\bin\Debug\net6.0\Constantes.exe
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\Constantes\bin\Debug\net6.0\Constantes.deps.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\Constantes\bin\Debug\net6.0\Constantes.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\Constantes\bin\Debug\net6.0\Constantes.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\Constantes\bin\Debug\net6.0\Constantes.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\Constantes\obj\Debug\net6.0\Constantes.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\Constantes\obj\Debug\net6.0\Constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\Constantes\obj\Debug\net6.0\Constantes.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\Constantes\obj\Debug\net6.0\Constantes.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\Constantes\obj\Debug\net6.0\Constantes.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\Constantes\obj\Debug\net6.0\Constantes.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\Constantes\obj\Debug\net6.0\refint\Constantes.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\Constantes\obj\Debug\net6.0\Constantes.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\Constantes\obj\Debug\net6.0\Constantes.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\Constantes\obj\Debug\net6.0\ref\Constantes.dll

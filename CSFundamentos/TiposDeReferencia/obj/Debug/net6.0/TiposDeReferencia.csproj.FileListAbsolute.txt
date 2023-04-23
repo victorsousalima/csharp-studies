@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposDeReferencia\bin\Debug\net6.0\TiposDeReferencia.exe
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposDeReferencia\bin\Debug\net6.0\TiposDeReferencia.deps.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposDeReferencia\bin\Debug\net6.0\TiposDeReferencia.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposDeReferencia\bin\Debug\net6.0\TiposDeReferencia.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposDeReferencia\bin\Debug\net6.0\TiposDeReferencia.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposDeReferencia\obj\Debug\net6.0\TiposDeReferencia.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposDeReferencia\obj\Debug\net6.0\TiposDeReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposDeReferencia\obj\Debug\net6.0\TiposDeReferencia.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposDeReferencia\obj\Debug\net6.0\TiposDeReferencia.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposDeReferencia\obj\Debug\net6.0\TiposDeReferencia.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposDeReferencia\obj\Debug\net6.0\TiposDeReferencia.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposDeReferencia\obj\Debug\net6.0\refint\TiposDeReferencia.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposDeReferencia\obj\Debug\net6.0\TiposDeReferencia.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposDeReferencia\obj\Debug\net6.0\TiposDeReferencia.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposDeReferencia\obj\Debug\net6.0\ref\TiposDeReferencia.dll

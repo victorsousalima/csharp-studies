@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ExerciciosFase1\bin\Debug\net6.0\ExerciciosFase1.exe
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ExerciciosFase1\bin\Debug\net6.0\ExerciciosFase1.deps.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ExerciciosFase1\bin\Debug\net6.0\ExerciciosFase1.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ExerciciosFase1\bin\Debug\net6.0\ExerciciosFase1.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ExerciciosFase1\bin\Debug\net6.0\ExerciciosFase1.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ExerciciosFase1\obj\Debug\net6.0\ExerciciosFase1.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ExerciciosFase1\obj\Debug\net6.0\ExerciciosFase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ExerciciosFase1\obj\Debug\net6.0\ExerciciosFase1.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ExerciciosFase1\obj\Debug\net6.0\ExerciciosFase1.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ExerciciosFase1\obj\Debug\net6.0\ExerciciosFase1.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ExerciciosFase1\obj\Debug\net6.0\ExerciciosFase1.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ExerciciosFase1\obj\Debug\net6.0\refint\ExerciciosFase1.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ExerciciosFase1\obj\Debug\net6.0\ExerciciosFase1.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ExerciciosFase1\obj\Debug\net6.0\ExerciciosFase1.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ExerciciosFase1\obj\Debug\net6.0\ref\ExerciciosFase1.dll

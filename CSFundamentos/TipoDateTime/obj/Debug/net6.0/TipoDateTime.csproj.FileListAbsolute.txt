@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TipoDateTime\bin\Debug\net6.0\TipoDateTime.exe
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TipoDateTime\bin\Debug\net6.0\TipoDateTime.deps.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TipoDateTime\bin\Debug\net6.0\TipoDateTime.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TipoDateTime\bin\Debug\net6.0\TipoDateTime.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TipoDateTime\bin\Debug\net6.0\TipoDateTime.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TipoDateTime\obj\Debug\net6.0\TipoDateTime.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TipoDateTime\obj\Debug\net6.0\TipoDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TipoDateTime\obj\Debug\net6.0\TipoDateTime.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TipoDateTime\obj\Debug\net6.0\TipoDateTime.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TipoDateTime\obj\Debug\net6.0\TipoDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TipoDateTime\obj\Debug\net6.0\TipoDateTime.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TipoDateTime\obj\Debug\net6.0\refint\TipoDateTime.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TipoDateTime\obj\Debug\net6.0\TipoDateTime.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TipoDateTime\obj\Debug\net6.0\TipoDateTime.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TipoDateTime\obj\Debug\net6.0\ref\TipoDateTime.dll

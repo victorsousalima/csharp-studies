@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\InferenciaDeTipos\bin\Debug\net6.0\InferenciaDeTipos.exe
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\InferenciaDeTipos\bin\Debug\net6.0\InferenciaDeTipos.deps.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\InferenciaDeTipos\bin\Debug\net6.0\InferenciaDeTipos.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\InferenciaDeTipos\bin\Debug\net6.0\InferenciaDeTipos.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\InferenciaDeTipos\bin\Debug\net6.0\InferenciaDeTipos.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\InferenciaDeTipos\obj\Debug\net6.0\InferenciaDeTipos.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\InferenciaDeTipos\obj\Debug\net6.0\InferenciaDeTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\InferenciaDeTipos\obj\Debug\net6.0\InferenciaDeTipos.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\InferenciaDeTipos\obj\Debug\net6.0\InferenciaDeTipos.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\InferenciaDeTipos\obj\Debug\net6.0\InferenciaDeTipos.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\InferenciaDeTipos\obj\Debug\net6.0\InferenciaDeTipos.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\InferenciaDeTipos\obj\Debug\net6.0\refint\InferenciaDeTipos.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\InferenciaDeTipos\obj\Debug\net6.0\InferenciaDeTipos.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\InferenciaDeTipos\obj\Debug\net6.0\InferenciaDeTipos.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\InferenciaDeTipos\obj\Debug\net6.0\ref\InferenciaDeTipos.dll

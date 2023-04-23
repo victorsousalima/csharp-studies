@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposInteiros\bin\Debug\net6.0\TiposInteiros.exe
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposInteiros\bin\Debug\net6.0\TiposInteiros.deps.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposInteiros\bin\Debug\net6.0\TiposInteiros.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposInteiros\bin\Debug\net6.0\TiposInteiros.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposInteiros\bin\Debug\net6.0\TiposInteiros.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposInteiros\obj\Debug\net6.0\TiposInteiros.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposInteiros\obj\Debug\net6.0\TiposInteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposInteiros\obj\Debug\net6.0\TiposInteiros.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposInteiros\obj\Debug\net6.0\TiposInteiros.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposInteiros\obj\Debug\net6.0\TiposInteiros.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposInteiros\obj\Debug\net6.0\TiposInteiros.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposInteiros\obj\Debug\net6.0\refint\TiposInteiros.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposInteiros\obj\Debug\net6.0\TiposInteiros.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposInteiros\obj\Debug\net6.0\TiposInteiros.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\TiposInteiros\obj\Debug\net6.0\ref\TiposInteiros.dll

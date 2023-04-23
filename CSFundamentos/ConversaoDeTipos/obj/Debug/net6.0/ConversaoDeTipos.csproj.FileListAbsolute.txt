@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ConversaoDeTipos\bin\Debug\net6.0\ConversaoDeTipos.exe
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ConversaoDeTipos\bin\Debug\net6.0\ConversaoDeTipos.deps.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ConversaoDeTipos\bin\Debug\net6.0\ConversaoDeTipos.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ConversaoDeTipos\bin\Debug\net6.0\ConversaoDeTipos.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ConversaoDeTipos\bin\Debug\net6.0\ConversaoDeTipos.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ConversaoDeTipos\obj\Debug\net6.0\ConversaoDeTipos.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ConversaoDeTipos\obj\Debug\net6.0\ConversaoDeTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ConversaoDeTipos\obj\Debug\net6.0\ConversaoDeTipos.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ConversaoDeTipos\obj\Debug\net6.0\ConversaoDeTipos.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ConversaoDeTipos\obj\Debug\net6.0\ConversaoDeTipos.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ConversaoDeTipos\obj\Debug\net6.0\ConversaoDeTipos.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ConversaoDeTipos\obj\Debug\net6.0\refint\ConversaoDeTipos.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ConversaoDeTipos\obj\Debug\net6.0\ConversaoDeTipos.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ConversaoDeTipos\obj\Debug\net6.0\ConversaoDeTipos.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\ConversaoDeTipos\obj\Debug\net6.0\ref\ConversaoDeTipos.dll

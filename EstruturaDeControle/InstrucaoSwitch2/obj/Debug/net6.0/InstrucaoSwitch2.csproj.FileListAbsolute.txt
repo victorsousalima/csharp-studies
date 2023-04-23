@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoSwitch2\bin\Debug\net6.0\InstrucaoSwitch2.exe
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoSwitch2\bin\Debug\net6.0\InstrucaoSwitch2.deps.json
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoSwitch2\bin\Debug\net6.0\InstrucaoSwitch2.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoSwitch2\bin\Debug\net6.0\InstrucaoSwitch2.dll
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoSwitch2\bin\Debug\net6.0\InstrucaoSwitch2.pdb
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoSwitch2\obj\Debug\net6.0\InstrucaoSwitch2.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoSwitch2\obj\Debug\net6.0\InstrucaoSwitch2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoSwitch2\obj\Debug\net6.0\InstrucaoSwitch2.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoSwitch2\obj\Debug\net6.0\InstrucaoSwitch2.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoSwitch2\obj\Debug\net6.0\InstrucaoSwitch2.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoSwitch2\obj\Debug\net6.0\InstrucaoSwitch2.dll
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoSwitch2\obj\Debug\net6.0\refint\InstrucaoSwitch2.dll
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoSwitch2\obj\Debug\net6.0\InstrucaoSwitch2.pdb
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoSwitch2\obj\Debug\net6.0\InstrucaoSwitch2.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoSwitch2\obj\Debug\net6.0\ref\InstrucaoSwitch2.dll

@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAritmeticos\bin\Debug\net6.0\OperadoresAritmeticos.exe
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAritmeticos\bin\Debug\net6.0\OperadoresAritmeticos.deps.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAritmeticos\bin\Debug\net6.0\OperadoresAritmeticos.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAritmeticos\bin\Debug\net6.0\OperadoresAritmeticos.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAritmeticos\bin\Debug\net6.0\OperadoresAritmeticos.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAritmeticos\obj\Debug\net6.0\OperadoresAritmeticos.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAritmeticos\obj\Debug\net6.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAritmeticos\obj\Debug\net6.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAritmeticos\obj\Debug\net6.0\OperadoresAritmeticos.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAritmeticos\obj\Debug\net6.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAritmeticos\obj\Debug\net6.0\OperadoresAritmeticos.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAritmeticos\obj\Debug\net6.0\refint\OperadoresAritmeticos.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAritmeticos\obj\Debug\net6.0\OperadoresAritmeticos.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAritmeticos\obj\Debug\net6.0\OperadoresAritmeticos.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAritmeticos\obj\Debug\net6.0\ref\OperadoresAritmeticos.dll

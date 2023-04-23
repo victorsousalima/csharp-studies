@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoGotoLabel\bin\Debug\net6.0\InstrucaoGotoLabel.exe
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoGotoLabel\bin\Debug\net6.0\InstrucaoGotoLabel.deps.json
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoGotoLabel\bin\Debug\net6.0\InstrucaoGotoLabel.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoGotoLabel\bin\Debug\net6.0\InstrucaoGotoLabel.dll
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoGotoLabel\bin\Debug\net6.0\InstrucaoGotoLabel.pdb
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoGotoLabel\obj\Debug\net6.0\InstrucaoGotoLabel.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoGotoLabel\obj\Debug\net6.0\InstrucaoGotoLabel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoGotoLabel\obj\Debug\net6.0\InstrucaoGotoLabel.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoGotoLabel\obj\Debug\net6.0\InstrucaoGotoLabel.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoGotoLabel\obj\Debug\net6.0\InstrucaoGotoLabel.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoGotoLabel\obj\Debug\net6.0\InstrucaoGotoLabel.dll
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoGotoLabel\obj\Debug\net6.0\refint\InstrucaoGotoLabel.dll
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoGotoLabel\obj\Debug\net6.0\InstrucaoGotoLabel.pdb
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoGotoLabel\obj\Debug\net6.0\InstrucaoGotoLabel.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoGotoLabel\obj\Debug\net6.0\ref\InstrucaoGotoLabel.dll

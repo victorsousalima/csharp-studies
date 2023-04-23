@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.exe
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.deps.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\refint\OperadoresAtribuicao.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\ref\OperadoresAtribuicao.dll

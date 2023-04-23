@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoWhile\bin\Debug\net6.0\InstrucaoWhile.exe
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoWhile\bin\Debug\net6.0\InstrucaoWhile.deps.json
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoWhile\bin\Debug\net6.0\InstrucaoWhile.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoWhile\bin\Debug\net6.0\InstrucaoWhile.dll
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoWhile\bin\Debug\net6.0\InstrucaoWhile.pdb
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoWhile\obj\Debug\net6.0\InstrucaoWhile.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoWhile\obj\Debug\net6.0\InstrucaoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoWhile\obj\Debug\net6.0\InstrucaoWhile.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoWhile\obj\Debug\net6.0\InstrucaoWhile.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoWhile\obj\Debug\net6.0\InstrucaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoWhile\obj\Debug\net6.0\InstrucaoWhile.dll
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoWhile\obj\Debug\net6.0\refint\InstrucaoWhile.dll
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoWhile\obj\Debug\net6.0\InstrucaoWhile.pdb
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoWhile\obj\Debug\net6.0\InstrucaoWhile.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\EstruturaDeControle\InstrucaoWhile\obj\Debug\net6.0\ref\InstrucaoWhile.dll

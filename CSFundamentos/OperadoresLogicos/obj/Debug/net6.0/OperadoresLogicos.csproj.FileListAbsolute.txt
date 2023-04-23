@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.exe
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.deps.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresLogicos\obj\Debug\net6.0\refint\OperadoresLogicos.dll
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.pdb
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\CSFundamentos\OperadoresLogicos\obj\Debug\net6.0\ref\OperadoresLogicos.dll
