@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Programação\C#\ClassesEMetodos\ClasseObjeto\bin\Debug\net6.0\ClasseObjeto.exe
+C:\Users\Victor\Desktop\Programação\C#\ClassesEMetodos\ClasseObjeto\bin\Debug\net6.0\ClasseObjeto.deps.json
+C:\Users\Victor\Desktop\Programação\C#\ClassesEMetodos\ClasseObjeto\bin\Debug\net6.0\ClasseObjeto.runtimeconfig.json
+C:\Users\Victor\Desktop\Programação\C#\ClassesEMetodos\ClasseObjeto\bin\Debug\net6.0\ClasseObjeto.dll
+C:\Users\Victor\Desktop\Programação\C#\ClassesEMetodos\ClasseObjeto\bin\Debug\net6.0\ClasseObjeto.pdb
+C:\Users\Victor\Desktop\Programação\C#\ClassesEMetodos\ClasseObjeto\obj\Debug\net6.0\ClasseObjeto.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Programação\C#\ClassesEMetodos\ClasseObjeto\obj\Debug\net6.0\ClasseObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Programação\C#\ClassesEMetodos\ClasseObjeto\obj\Debug\net6.0\ClasseObjeto.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\ClassesEMetodos\ClasseObjeto\obj\Debug\net6.0\ClasseObjeto.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Programação\C#\ClassesEMetodos\ClasseObjeto\obj\Debug\net6.0\ClasseObjeto.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Programação\C#\ClassesEMetodos\ClasseObjeto\obj\Debug\net6.0\ClasseObjeto.dll
+C:\Users\Victor\Desktop\Programação\C#\ClassesEMetodos\ClasseObjeto\obj\Debug\net6.0\refint\ClasseObjeto.dll
+C:\Users\Victor\Desktop\Programação\C#\ClassesEMetodos\ClasseObjeto\obj\Debug\net6.0\ClasseObjeto.pdb
+C:\Users\Victor\Desktop\Programação\C#\ClassesEMetodos\ClasseObjeto\obj\Debug\net6.0\ClasseObjeto.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Programação\C#\ClassesEMetodos\ClasseObjeto\obj\Debug\net6.0\ref\ClasseObjeto.dll
